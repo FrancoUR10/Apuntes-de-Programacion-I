@@ -29,9 +29,9 @@ int main()
             break;
         case 3:
             factor=sacarFactoreo(primerOperando);
-            printf("%d",factor);
             break;
         case 4:
+            printf("%d",factor);
             break;
         case 5:
             continuar='n';
