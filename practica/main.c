@@ -84,3 +84,24 @@ int sacarFactoreo(int numero)
     }
     return resultado;
 }
+
+int sacarResta(int numeroUno, int numeroDos)
+{
+    int miResta;
+    miResta=numeroUno - numeroDos;
+    return miResta;
+}
+
+int sacarProducto(int numeroUno, int numeroDos)
+{
+    int miProducto;
+    miProducto=numeroUno * numeroDos;
+    return miProducto;
+}
+
+float sacarDivision(int numeroUno, int numeroDos)
+{
+    float miDivision;
+    miDivision= (float)numeroUno / numeroDos;
+    return miDivision;
+}
