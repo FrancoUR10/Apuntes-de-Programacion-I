@@ -33,3 +33,31 @@
 	<string.h>
 	"biblioteca.h"
 
+1556892091 source:c:\users\alumno\desktop\clase_6\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"Proveedor.h"
+
+1556892121 c:\users\alumno\desktop\clase_6\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556892091 c:\users\alumno\desktop\clase_6\proveedor.h
+
+1556891832 source:c:\users\alumno\desktop\clase_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"Proveedor.h"
+
+1556892091 source:c:\users\alumno\desktop\clase_6\proveedor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"Proveedor.h"
+

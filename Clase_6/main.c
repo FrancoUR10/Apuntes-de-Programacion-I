@@ -2,9 +2,15 @@
 #include <stdlib.h>
 #include <string.h>
 #define T 10
-#include "biblioteca.h"
+#include "Producto.h"
 #include "Proveedor.h"
-
+/*
+1. Todos los productos con su proveedor.
+2. Por cada proveedor sus productos.
+3. Por cada proveedor la cantidad de productos.
+4. El precio promedio de los productos de cada proveedor.
+5. El/los proveedor/es que provee mas productos.
+*/
 int main()
 {
     //definir array.

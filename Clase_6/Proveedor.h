@@ -11,5 +11,10 @@ typedef struct
     int estado;
 } eProveedor;
 
+void mostrarProveedor(eProveedor);
+
+void mostrarArrayProductosConProveedor(eProducto listaProductos[], int tamProducto, eProveedor listaProveedores[], int tamProveedor);
+
+void mostrarArrayProveedorConSusProductos(eProveedor listaProveedores[], int tamProveedor, eProducto listaProductos[], int tamProducto);
 
 #endif // PROVEEDOR_H_INCLUDED
